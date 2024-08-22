@@ -1,0 +1,10 @@
+Toy{id='3', name='Robot', frequency=70}
+Toy{id='1', name='Car', frequency=50}
+Toy{id='2', name='Doll', frequency=30}
+Queue is empty
+Queue is empty
+Queue is empty
+Queue is empty
+Queue is empty
+Queue is empty
+Queue is empty
